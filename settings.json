@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DinoRockSMP.aternos.me
-",
+    "ip": "DinoRockSMP.aternos.me",
     "port": 36376,
     "version": "",
     "try-creative": false
